@@ -1,4 +1,4 @@
-from python:3.6.4-slim-jessie
+FROM python:3.6.4-slim-jessie
 RUN pip install pandas
 RUN pip install CherryPy
 COPY proc.py .
