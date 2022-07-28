@@ -3,7 +3,7 @@ phases:
   pre_build: 
     commands: 
     - echo Logging in to Docker Registry.... 
-    - docker login --username $DOCKER_USER --password $DOCKER_PASSWORD
+    - echo $DOCKER_PASSWORD | docker login --username $DOCKER_USER --password-stdin
   build: 
     commands: 
     - echo Build started on `date` 
