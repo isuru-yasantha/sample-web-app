@@ -32,7 +32,7 @@ Below python libraries are used for this development.
 
 ```python ws.py```
 
-Web service is exposed with port 8080 as below,
+Web service is exposed with port 8080 as follow,
 ```http://0.0.0.0:8080```
 
 
