@@ -7,7 +7,7 @@ This web app is built using python to get the sum of the collection of numbers p
 
 #### proc is the arithmatic function used for providing summation of the input numbers. 
 
-## Libraries used for this app
+## Libraries used for the app
 
 Below python libraries are used for this development.
 
