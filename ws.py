@@ -17,7 +17,7 @@ class MyWebService(object):
 
  @cherrypy.expose
  def index(self):
-    return 'Healthy'
+    return 'Healthy!'
 
 if __name__ == '__main__':
    config = {'server.socket_host': '0.0.0.0'}
