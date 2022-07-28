@@ -1,11 +1,11 @@
-### sample-web-app
+# sample-web-app
 This web app is built using python to get the sum of the collection of numbers providing as a json input to the web service. Json output return back to the client as the response. 
 
 ## Key Functions
 
-# Web app is designed to return HTTP status code 200 for index call as a simple health check. 
+#### Web app is designed to return HTTP status code 200 for index call as a simple health check. 
 
-# proc is the arithmatic function used for providing summation of the input numbers. 
+#### proc is the arithmatic function used for providing summation of the input numbers. 
 
 ## Libraries used for this app
 
